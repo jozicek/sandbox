@@ -8,7 +8,9 @@ To build and deploy war:
     
     ./deploy.sh
 
-
+Resources are exposed on URL:
+    
+    localhost:8080/sandbox/resources/<resource path>
 
 
 
