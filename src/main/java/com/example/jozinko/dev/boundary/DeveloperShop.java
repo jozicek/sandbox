@@ -11,7 +11,7 @@ public class DeveloperShop {
 
     public Developer theOne() {
         this.counter.increment();
-        return new Developer("Duke", 42);
+        return new Developer("Jozinko", 42);
     }
 
 }
