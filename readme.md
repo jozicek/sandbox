@@ -8,9 +8,9 @@ To build and deploy war:
     
     ./deploy.sh
 
-Resources are exposed on URL:
+Test running service:
     
-    localhost:8080/sandbox/resources/<resource path>
+    curl -i localhost:8080/sandbox/resources/ping
 
 
 
